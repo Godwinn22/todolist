@@ -76,7 +76,7 @@ label {
 @media screen and (max-width:400px){
     .label {
         display:flex;
-        justifyh-content:space-around;
+        justify-content:space-around;
     }
     .okay {
         top: 100px;

@@ -69,10 +69,16 @@ label {
         font-size: 15px;
         padding: 2% 4%;
     }
+    label{
+        font-size: 1.6rem;
+    }
 }
 @media screen and (max-width:400px){
     .okay {
         top: 100px;
+    }
+    label{
+        font-size: 1.5rem;
     }
     .text {
         padding: 3% 6%;
